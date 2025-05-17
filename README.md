@@ -1,22 +1,25 @@
+# Dance Academy Website
 
-This is a basic website made with HTML and CSS.
+This is a simple and beautiful dance website made using HTML and CSS.
 
-It has:
-- A menu bar
-- Welcome message and images
-- Dance styles like Hip Hop, Contemporary, Bharatanatyam
-- Success stories and contact details
+It includes:
+- Navigation bar
+- Welcome section with dance image
+- Dance styles: Hip Hop, Contemporary, Bharatanatyam
+- Success stories with image
+- Contact details and social media links
+- Footer section
 
-## Files
+## 📁 Files
 
-- dance.html
-- dance.css
+- `dance.html` – Main webpage 
+- `dance.css` – Styling for the website
 
-## How to View
+## 🌐 Live Website
 
-Open `dance.html` in your browser.
+View it here:  
+[https://prasannahanchinamani.github.io/DANCE-WEBSITE/](https://prasannahanchinamani.github.io/DANCE-WEBSITE/)
 
-
-## Made by
+## 👨‍💻 Made By
 
 Prasanna Ningappa Hanchinamani
