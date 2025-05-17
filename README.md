@@ -9,16 +9,13 @@ It has:
 
 ## Files
 
-- index.html
+- dance.html
 - dance.css
 
 ## How to View
 
-Open `index.html` in your browser.
+Open `dance.html` in your browser.
 
-## Live Link
-
-https://yourusername.github.io/dance-academy
 
 ## Made by
 
