@@ -15,11 +15,6 @@ It includes:
 - `dance.html` – Main webpage 
 - `dance.css` – Styling for the website
 
-## 🌐 Live Website
 
-View it here:  
-[https://prasannahanchinamani.github.io/DANCE-WEBSITE/](https://prasannahanchinamani.github.io/DANCE-WEBSITE/)
-
-## 👨‍💻 Made By
 
 Prasanna Ningappa Hanchinamani
